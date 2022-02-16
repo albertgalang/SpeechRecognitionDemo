@@ -2,7 +2,7 @@
 Machine learning for speech recognition
 
 ## Datasets
-The 'dataset' folder will hold the datasets to be used in the modeling process. The datasets are organized as follows:
+The 'datasets' folder will hold the datasets to be used in the modeling process. The datasets are organized as follows:
 * datasets/dev
 * datasets/train
 * datasets/test

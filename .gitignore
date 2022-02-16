@@ -1,0 +1,15 @@
+# datasets folder
+/datasets/*
+!/datasets/.gitkeep
+!/datasets/dev
+!/datasets/train
+!/datasets/test
+
+/datasets/dev/**
+!/datasets/dev/.gitkeep
+
+/datasets/train/**
+!/datasets/train/.gitkeep
+
+/datasets/test/**
+!/datasets/test/.gitkeep

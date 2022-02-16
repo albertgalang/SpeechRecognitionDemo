@@ -13,3 +13,5 @@
 
 /datasets/test/**
 !/datasets/test/.gitkeep
+
+/**/*.ipynb
